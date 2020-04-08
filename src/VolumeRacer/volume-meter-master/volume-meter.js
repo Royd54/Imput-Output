@@ -103,6 +103,6 @@ function setVolume(volume2){
 }
 
 function getVolume(){
-	console.log(volume3);
+	//console.log(volume3);
 	return volume3;
 }
