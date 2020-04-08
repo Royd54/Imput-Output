@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <script language="javascript" type="text/javascript" src="https://cdn.jsdelivr.net/npm/p5@1.0.0/lib/p5.min.js"></script>
+  
+
+    <title>lil mousepointer</title>
+        <button onclick="huts()">Allow to use mic</button>
+</head>
+<body>
+    <div class="box">
+        <a class="button" ><p id="timer">start</p></a>
+    </div>
+
+    <div>
+        <div id="popup1" class="overlay">
+            <div class="popup">
+                <h2>Here i am</h2>
+                <a class="close" onclick="Reset()">&times;</a>
+                <div class="content">
+                    Thank to pop me out of that button, but now i'm done so you can close this window.
+                </div>
+            </div>
+        </div>
+
+    <canvas id="meter" width="500" height="50" ></canvas>
+    <canvas id="canvas" style="background: url('background.jpg'); background-repeat: no-repeat; background-size: 1920px 515px;"></canvas>
+        Your browser does not support the canvas element.
+      </canvas>
+</pre>
+</div>
+            <!-- Include the volume meter component -->
+            <script src="volume-meter-master/volume-meter.js"></script>
+            <!-- Include the main app logic -->
+            <script src="volume-meter-master/main.js"></script>
+    <script src="../../lib/Vector2d.js"></script>
+    <script src="../../lib/Point.js"></script>
+    <script src="../../lib/LinearFunction.js"></script>
+    <script src="../../lib/Grid.js"></script>
+    <script src="../../lib/Arrow.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
