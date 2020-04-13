@@ -28,7 +28,7 @@ Wij hebben na even googelen besloten om voor de pong game de library Handtrack.j
 
 Ook voor de andere game die op geluid moet werken hebben we veel onderzocht en kwamen tot de conclusie om de Web audio API te gebruiken voor het detecteren van het volume van de geluiden die de speler maakt.  
 
-* concept tekening: https://drive.google.com/file/d/1Qk_vRj3M36hg7g0SSitfsYPr9la0Rbz2/view?usp=sharing
+* concept tekening: https://docs.google.com/document/d/185OHQJFGVJXy0YMKBcM05NzkJEJIl5ap7jCZlxfcYQM/edit
 * bronnen lijst:    https://docs.google.com/document/d/1CyydEKVJ6C-lnu7lPgoenabHqR0fys9glR1pTQHvRGw/edit?usp=sharing
 
 ## SCRUM
@@ -42,7 +42,7 @@ Wij hebben door middel van de SCRUM methode onze planning begehouden, ook hebben
 Onze links naar onze documentatie:
 * [Bronnenlijst](https://docs.google.com/document/d/1CyydEKVJ6C-lnu7lPgoenabHqR0fys9glR1pTQHvRGw/edit?usp=sharing)
 * [Onderzoek](https://docs.google.com/document/d/1GPe40tfMmIo6i3QsAkc4c69yjrhEQ8P6UaWsF_lh2K0/edit?usp=sharing)
-* [Concept tekening](/////)
+* [Concept tekening](https://docs.google.com/document/d/185OHQJFGVJXy0YMKBcM05NzkJEJIl5ap7jCZlxfcYQM/edit)
 * [Ontwerp document](https://docs.google.com/document/d/1tD-y8Jeer8L-tXEKgZ6O0w0aZGjR9Zusa1yGYPpyCUE/edit?usp=sharing)
 * [Testplan](https://docs.google.com/document/d/1L-Zi8mwErN2OiS5saaLDeFwpjJg_TFD-IwgV8BwhQ6g/edit?usp=sharing)
 * [Usertests](https://docs.google.com/document/d/1zaC4HPyzmGnLoCzZcwbSJcFoSJdEzc6PR3VL7QJtKTs/edit?usp=sharing)
