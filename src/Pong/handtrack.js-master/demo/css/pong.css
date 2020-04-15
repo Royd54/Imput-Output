@@ -1,0 +1,36 @@
+body, html {
+	background-color: #7B919D;
+	font-weight: bold;
+	font-family: monospace;
+	
+}
+
+h2, h1 {
+	text-align: center;
+}
+
+.score {
+	text-align: center;
+}
+
+a {
+    color: #f1f1f1;
+    text-decoration: none;
+}
+
+a:hover 
+{
+     color:#00A0C6; 
+     text-decoration:none; 
+     cursor:pointer;  
+}
+
+        #pong{
+            border: 2px solid #FFF;
+            position: absolute;
+            margin :auto;
+            top:0;
+            right:0;
+            left:0;
+            bottom:0;
+        }
