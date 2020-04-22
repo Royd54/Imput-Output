@@ -30,21 +30,21 @@ var rafID = null;
 
 
 
-function huts() {
+function Init() {
     Start();
     // grab our canvas
 	canvasContext = document.getElementById( "meter" ).getContext("2d");
-	
+
     // monkeypatch Web Audio
     window.AudioContext = window.AudioContext || window.webkitAudioContext;
-	
+
     // grab an audio context
     audioContext = new AudioContext();
 
     // Attempt to get audio input
     try {
         // monkeypatch getUserMedia
-        navigator.getUserMedia = 
+        navigator.getUserMedia =
         	navigator.getUserMedia ||
         	navigator.webkitGetUserMedia ||
         	navigator.mozGetUserMedia;
